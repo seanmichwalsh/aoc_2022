@@ -14,7 +14,7 @@ cargo run ${problem_day}
 ```
 
 ## Problem Completion
-- [ ] Day 1: ???
+- [X] Day 1: Calorie Counting
 - [ ] Day 2: ???
 - [ ] Day 3: ???
 - [ ] Day 4: ???
